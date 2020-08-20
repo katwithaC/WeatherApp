@@ -1,1 +1,1 @@
-# WeatherApp
+I created a small Weather app using vanilla javascript and an API key from openweathermap.com

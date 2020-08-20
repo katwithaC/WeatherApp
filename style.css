@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(85, 101, 252); 
+}
+
+
+h1 {
+    text-align: center;
+    font-size: bold;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.input {
+    text-align: center;
+}
+
+.display {
+    text-align: center;
+}
